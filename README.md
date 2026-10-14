@@ -15,11 +15,15 @@
 
 ## ୨୧ Who Am I?
 
-I'm **Jaaharjot Kaur**, a Mechatronics Engineering student at Toronto Metropolitan University (TMU).
+Hi! I'm **Jaaharjot Kaur**, a Mechatronics Engineering student at Toronto Metropolitan University (TMU), with a strong interest in robotics, embedded systems, and mechanical design.
 
-I love exploring the intersection of hardware and software, from designing mechanical components in SolidWorks to programming microcontrollers and building robots.
+Through TMU Robotics and Chem-E-Car, I've gained hands-on experience in mechanical design, robotic systems, and collaborative engineering projects.
 
-I'm passionate about turning ideas into real, functional projects, learning new technologies, and creating things along the way!
+I'm particularly interested in pursuing *Marine Roboticsss*, combining my love for engineering with my passion for the water.
+
+Outside of engineering, you'll probably find me dragon boating, sailing, or exploring a new creative project!
+
+♡ A little bit of coding, a little bit of CAD, and a lot of curiosity.
 
 ---
 
