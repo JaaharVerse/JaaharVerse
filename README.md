@@ -1,57 +1,77 @@
-# Hi, I'm Jaahar! ♡
+<div align="center">
 
-### Mechatronics Engineering Student | Robotics • Embedded Systems • Mechanical Design
+# ˚₊‧ hi, i'm jaahar! ♡ ‧₊˚
 
-Welcome to my little corner of GitHub! ⚙️
+**mechatronics engineering student @ toronto metropolitan university**
 
-## ✿ Who Am I?
+`robotics` · `embedded systems` · `mechanical design` · `programming`
 
-I'm Jaaharjot Kaur, a Mechatronics Engineering student at Toronto Metropolitan University (TMU) with a passion for robotics, programming, and mechanical design.
+*welcome to my little universe of code, circuits & creations!*
 
-I love bringing ideas to life, whether that's designing components in CAD, programming microcontrollers, or building robots from scratch.
+♡ ─────────────── ♡
 
-I'm especially interested in the intersection of hardware and software and how they work together to create intelligent systems.
+</div>
 
-## ⚙️ What I'm Currently Working On
+### ୨୧ who am i?
 
-- **Mobile Robot with Robotic Arm:** Developing a controller-operated robot using an ESP32, motors, and a robotic arm for object manipulation.
-- **TMU Robotics (TMR):** Contributing to mechanical design, including auger mechanisms, motor mounts, camera and sensor mounts, and tube organization components for a soil collection rover.
-- **Chem-E-Car:** Leading the mechanical subteam in chassis design, material selection, weight distribution, and component integration.
-- **Personal Projects:** Exploring embedded systems, robotics, and creative hardware builds.
+I'm **Jaaharjot Kaur**, a Mechatronics Engineering student at Toronto Metropolitan University (TMU).
 
-## 🛠️ Tools & Technologies
+I love exploring the intersection of hardware and software, from designing mechanical components in SolidWorks to programming microcontrollers and building robots.
 
-**Programming Languages**
-- C / C++
-- Python
-- MATLAB
-- JavaScript
-- AVR Assembly
+I'm passionate about turning ideas into real, functional projects, learning new technologies, and creating things along the way!
 
-**CAD & Design**
-- SolidWorks
-- AutoCAD
-- Bambu Studio
+### ୨୧ what i'm currently working on
 
-**Hardware & Embedded Systems**
-- Arduino
-- ESP32
-- Microcontrollers
-- Sensors & Motors
-- 3D Printing
+**✧ TMU Robotics — Mechanical Design**
+- Currently working on the gantry system.
+- Previously contributed to the soil collection rover, working on the auger mechanism and motor mount.
 
-**Development Tools**
-- Git & GitHub
-- Linux / Ubuntu
-- Arduino IDE
-- MATLAB / Simulink
+**✧ Chem-E-Car — mechanical lead**
+- Leading a mechanical design subteam developing a chemically powered competition vehicle.
+- Working on chassis design, material selection, weight distribution, and component integration.
 
-## ♡ How to Reach Me
+**✧ personal project: MP3 Player ♫**
+- Planning to design and build a portable MP3 player.
+- Exploring embedded programming, audio electronics, and custom enclosure design.
 
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/jaaharjot-kaur-b08960381)
-- **Email:** jaaharjot.kaur@gmail.com
-- **GitHub:** [JaaharVerse](https://github.com/JaaharVerse)
+**✧ personal project: Gesture-Controlled Robotic Hand ⚙**
+- Planning to develop a robotic hand that mimics real-time hand movements using computer vision.
+- Exploring OpenCV, Python, hand tracking, and servo motor control to translate hand gestures into robotic movement.
+
+*♡ from little ideas to real-life creations, one project at a time!*
+
+### ୨୧ tools & technologies
+
+**⌨ programming**
+
+`C` `C++` `Python` `MATLAB` `JavaScript` `AVR Assembly`
+
+**⚙ mechanical design**
+
+`SolidWorks` `AutoCAD` `Bambu Studio` `3D Printing`
+
+**♡ hardware & electronics**
+
+`Arduino` `ESP32` `Sensors` `Motors` `Microcontrollers`
+
+**✧ development tools**
+
+`Git` `GitHub` `Linux / Ubuntu` `Arduino IDE` `Simulink`
+
+### ୨୧ how to reach me
+
+I'm always happy to connect with people who share an interest in engineering, robotics, and creative technology!
+
+- ♡ **LinkedIn:** [let's connect!](https://www.linkedin.com/)
+- ✉ **Email:** your.email@example.com
+- ✧ **GitHub:** [JaaharVerse](https://github.com/JaaharVerse)
 
 ---
 
-*Always learning, always building, and always curious. ♡*
+<div align="center">
+
+*♡ always learning, always building, always curious ♡*
+
+**thanks for visiting my little corner of github!**
+
+</div>
