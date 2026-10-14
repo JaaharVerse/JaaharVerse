@@ -17,7 +17,7 @@
 
 Hi! I'm **Jaaharjot Kaur**, a Mechatronics Engineering student at Toronto Metropolitan University (TMU), with a strong interest in robotics, embedded systems, and mechanical design.
 
-Through TMU Robotics and Chem-E-Car, I've gained hands-on experience in mechanical design, robotic systems, and collaborative engineering projects.
+Through TorontoMet Robotics and Chem-E-Car, I've gained hands-on experience in mechanical design, robotic systems, and collaborative engineering projects.
 
 I'm particularly interested in pursuing *Marine Roboticsss*, combining my love for engineering with my passion for the water.
 
@@ -29,7 +29,7 @@ Outside of engineering, you'll probably find me dragon boating, sailing, or expl
 
 ## ୨୧ What I'm Currently Working On
 
-### ✧ TMR Robotics — Mechanical Design
+### ✧ TorontoMet Robotics — Mechanical Design
 
 - Currently working on the gantry system.
 - Previously contributed to the soil collection rover, working on the auger mechanism and motor mount.
