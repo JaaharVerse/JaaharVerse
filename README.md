@@ -1,18 +1,19 @@
+
 <div align="center">
 
-# ˚₊‧ hi, i'm jaahar! ♡ ‧₊˚
+# ˚₊‧ Hi, I'm Jaahar! ♡ ‧₊˚
 
-**mechatronics engineering student @ toronto metropolitan university**
+### Mechatronics Engineering Student @ Toronto Metropolitan University
 
-`robotics` · `embedded systems` · `mechanical design` · `programming`
+`Robotics` · `Embedded Systems` · `Mechanical Design` · `Programming`
 
-*welcome to my little universe of code, circuits & creations!*
+*Welcome to my little universe of code, circuits & creations!*
 
-♡ ─────────────── ♡
+♡ ─────────────────── ♡
 
 </div>
 
-### ୨୧ who am i?
+## ୨୧ Who Am I?
 
 I'm **Jaaharjot Kaur**, a Mechatronics Engineering student at Toronto Metropolitan University (TMU).
 
@@ -20,51 +21,66 @@ I love exploring the intersection of hardware and software, from designing mecha
 
 I'm passionate about turning ideas into real, functional projects, learning new technologies, and creating things along the way!
 
-### ୨୧ what i'm currently working on
+---
 
-**✧ TMU Robotics — Mechanical Design**
+## ୨୧ What I'm Currently Working On
+
+### ✧ TMU Robotics — Mechanical Design
+
 - Currently working on the gantry system.
 - Previously contributed to the soil collection rover, working on the auger mechanism and motor mount.
+- Designed camera and sensor mounts, along with tube organization clips for component integration.
 
-**✧ Chem-E-Car — mechanical lead**
+### ✧ Chem-E-Car — Mechanical Lead
+
 - Leading a mechanical design subteam developing a chemically powered competition vehicle.
 - Working on chassis design, material selection, weight distribution, and component integration.
 
-**✧ personal project: MP3 Player ♫**
+### ✧ Personal Project 1: MP3 Player ♫ 
+`In Progress`
 - Planning to design and build a portable MP3 player.
 - Exploring embedded programming, audio electronics, and custom enclosure design.
 
-**✧ personal project: Gesture-Controlled Robotic Hand ⚙**
+### ✧ Personal Project 2: Gesture-Controlled Robotic Hand ⚙
+`In Progress`
 - Planning to develop a robotic hand that mimics real-time hand movements using computer vision.
 - Exploring OpenCV, Python, hand tracking, and servo motor control to translate hand gestures into robotic movement.
 
+<div align="center">
+
 *♡ from little ideas to real-life creations, one project at a time!*
 
-### ୨୧ tools & technologies
+</div>
 
-**⌨ programming**
+---
+
+## ୨୧ Tools & Technologies
+
+### ⌨ Programming
 
 `C` `C++` `Python` `MATLAB` `JavaScript` `AVR Assembly`
 
-**⚙ mechanical design**
+### ⚙ Mechanical Design
 
 `SolidWorks` `AutoCAD` `Bambu Studio` `3D Printing`
 
-**♡ hardware & electronics**
+### ♡ Hardware & Electronics
 
 `Arduino` `ESP32` `Sensors` `Motors` `Microcontrollers`
 
-**✧ development tools**
+### ✧ Development Tools
 
 `Git` `GitHub` `Linux / Ubuntu` `Arduino IDE` `Simulink`
 
-### ୨୧ how to reach me
+---
+
+## ୨୧ How to Reach Me
 
 I'm always happy to connect with people who share an interest in engineering, robotics, and creative technology!
 
-- ♡ **LinkedIn:** [let's connect!](https://www.linkedin.com/)
-- ✉ **Email:** your.email@example.com
-- ✧ **GitHub:** [JaaharVerse](https://github.com/JaaharVerse)
+- ♡ **LinkedIn:** [Lets Connect!](https://www.linkedin.com/in/jaaharjot-kaur-b08960381/)
+- ✉ **Email:** [jaaharjot.kaur@gmail.com](mailto:jaaharjot.kaur@gmail.com)
+- ✧ **GitHub:** [github.com/JaaharVerse](https://github.com/JaaharVerse)
 
 ---
 
@@ -72,6 +88,10 @@ I'm always happy to connect with people who share an interest in engineering, ro
 
 *♡ always learning, always building, always curious ♡*
 
-**thanks for visiting my little corner of github!**
+**Thanks for visiting my little corner of GitHub!**
+
+˚₊‧ ♡ ‧₊˚
 
 </div>
+
+
