@@ -25,7 +25,7 @@ I'm passionate about turning ideas into real, functional projects, learning new 
 
 ## ୨୧ What I'm Currently Working On
 
-### ✧ TMU Robotics — Mechanical Design
+### ✧ TMR Robotics — Mechanical Design
 
 - Currently working on the gantry system.
 - Previously contributed to the soil collection rover, working on the auger mechanism and motor mount.
